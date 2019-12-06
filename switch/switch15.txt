@@ -1,0 +1,3426 @@
+    case 1
+        if single_data(1,137) <= 0.753
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2
+        if single_data(1,105) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4
+        if single_data(1,169) <= 0.784
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 8
+        if single_data(1,159) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 16
+        if single_data(1,127) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 32
+        if single_data(1,116) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 64
+        if single_data(1,146) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 128
+        if single_data(1,185) <= 0.945
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 256
+        if single_data(1,80) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 512
+        if single_data(1,259) <= 0.003
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1025
+        if single_data(1,271) <= 0.999
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2050
+        if single_data(1,257) <= 0.0
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4101
+        if single_data(1,110) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 8202
+        if single_data(1,155) <= 0.437
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 8203
+        if single_data(1,25) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 16406
+        if single_data(1,283) <= 0.025
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 16407
+        if single_data(1,269) <= 0.011
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 513
+        if single_data(1,45) <= 0.461
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 257
+        if single_data(1,161) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 514
+        if single_data(1,186) <= 0.078
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1029
+        if single_data(1,235) <= 0.945
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 515
+        if single_data(1,94) <= 0.667
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 129
+        if single_data(1,178) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 258
+        if single_data(1,137) <= 0.533
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 516
+        if single_data(1,151) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1032
+        if single_data(1,160) <= 0.875
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2064
+        if single_data(1,239) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4128
+        if single_data(1,294) <= 0.397
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4129
+        if single_data(1,34) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 8259
+        if single_data(1,41) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 16519
+        if single_data(1,267) <= 0.014
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2065
+        if single_data(1,176) <= 0.714
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1033
+        if single_data(1,245) <= 0.706
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2066
+        if single_data(1,242) <= 0.247
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 517
+        if single_data(1,159) <= 0.525
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1034
+        if single_data(1,125) <= 0.627
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2068
+        if single_data(1,97) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2069
+        if single_data(1,151) <= 0.794
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1035
+        if single_data(1,89) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 259
+        if single_data(1,174) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 518
+        if single_data(1,278) <= 0.016
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1037
+        if single_data(1,278) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2074
+        if single_data(1,217) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4149
+        if single_data(1,283) <= 0.01
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 8298
+        if single_data(1,133) <= 0.58
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 519
+        if single_data(1,109) <= 0.216
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 65
+        if single_data(1,8) <= 0.341
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 130
+        if single_data(1,49) <= 0.5
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 261
+        if single_data(1,86) <= 0.682
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 131
+        if single_data(1,255) <= 0.047
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 262
+        if single_data(1,39) <= 0.833
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 263
+        if single_data(1,162) <= 0.055
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 526
+        if single_data(1,294) <= 0.489
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 527
+        if single_data(1,55) <= 0.937
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1054
+        if single_data(1,86) <= 0.969
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2108
+        if single_data(1,11) <= 0.016
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 33
+        if single_data(1,114) <= 0.753
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 66
+        if single_data(1,92) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 132
+        if single_data(1,10) <= 0.698
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 133
+        if single_data(1,249) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 267
+        if single_data(1,14) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 535
+        if single_data(1,137) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1070
+        if single_data(1,194) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2140
+        if single_data(1,85) <= 0.984
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4280
+        if single_data(1,294) <= 0.998
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 8560
+        if single_data(1,279) <= 0.991
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 17120
+        if single_data(1,149) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1071
+        if single_data(1,6) <= 0.427
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 67
+        if single_data(1,119) <= 0.722
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 134
+        if single_data(1,294) <= 0.706
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 269
+        if single_data(1,282) <= 0.698
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 135
+        if single_data(1,75) <= 0.549
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 270
+        if single_data(1,174) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 540
+        if single_data(1,216) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 541
+        if single_data(1,47) <= 0.373
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 271
+        if single_data(1,198) <= 0.373
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 542
+        if single_data(1,204) <= 0.231
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1084
+        if single_data(1,241) <= 0.412
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 543
+        if single_data(1,230) <= 0.596
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 17
+        if single_data(1,148) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 34
+        if single_data(1,148) <= 0.518
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 68
+        if single_data(1,114) <= 0.698
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 136
+        if single_data(1,157) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 273
+        if single_data(1,81) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 547
+        if single_data(1,210) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1094
+        if single_data(1,68) <= 0.929
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2188
+        if single_data(1,286) <= 0.973
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 137
+        if single_data(1,75) <= 0.451
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 274
+        if single_data(1,54) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 275
+        if single_data(1,212) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 69
+        if single_data(1,157) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 138
+        if single_data(1,189) <= 0.047
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 277
+        if single_data(1,90) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 554
+        if single_data(1,244) <= 0.149
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1108
+        if single_data(1,75) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1109
+        if single_data(1,236) <= 0.945
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 555
+        if single_data(1,26) <= 0.69
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 139
+        if single_data(1,183) <= 0.412
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 279
+        if single_data(1,105) <= 0.167
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 35
+        if single_data(1,155) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 70
+        if single_data(1,82) <= 0.729
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 140
+        if single_data(1,126) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 71
+        if single_data(1,202) <= 0.533
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 142
+        if single_data(1,130) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 143
+        if single_data(1,231) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 286
+        if single_data(1,285) <= 0.147
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 287
+        if single_data(1,254) <= 0.62
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 9
+        if single_data(1,201) <= 0.675
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 18
+        if single_data(1,155) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 36
+        if single_data(1,161) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 72
+        if single_data(1,190) <= 0.784
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 144
+        if single_data(1,252) <= 0.118
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 288
+        if single_data(1,172) <= 0.69
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 289
+        if single_data(1,88) <= 0.859
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 578
+        if single_data(1,222) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1156
+        if single_data(1,188) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2312
+        if single_data(1,154) <= 0.445
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2313
+        if single_data(1,9) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4627
+        if single_data(1,161) <= 0.484
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1157
+        if single_data(1,283) <= 0.387
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 579
+        if single_data(1,161) <= 0.58
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 145
+        if single_data(1,188) <= 0.792
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 290
+        if single_data(1,171) <= 0.016
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 291
+        if single_data(1,77) <= 0.573
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 583
+        if single_data(1,179) <= 0.451
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 73
+        if single_data(1,87) <= 0.294
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 146
+        if single_data(1,79) <= 0.3
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 147
+        if single_data(1,136) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 294
+        if single_data(1,193) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 37
+        if single_data(1,148) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 74
+        if single_data(1,38) <= 0.659
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 148
+        if single_data(1,153) <= 0.761
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 296
+        if single_data(1,179) <= 0.875
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 297
+        if single_data(1,74) <= 0.078
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 595
+        if single_data(1,256) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1190
+        if single_data(1,46) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2380
+        if single_data(1,113) <= 0.086
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4761
+        if single_data(1,90) <= 0.133
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 9522
+        if single_data(1,106) <= 0.231
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 9523
+        if single_data(1,50) <= 0.745
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 19046
+        if single_data(1,120) <= 0.882
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 149
+        if single_data(1,172) <= 0.047
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 75
+        if single_data(1,209) <= 0.906
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 150
+        if single_data(1,122) <= 0.882
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 300
+        if single_data(1,12) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 600
+        if single_data(1,232) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1201
+        if single_data(1,204) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2402
+        if single_data(1,64) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4804
+        if single_data(1,197) <= 0.945
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 9608
+        if single_data(1,107) <= 0.984
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 19216
+        if single_data(1,255) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 9609
+        if single_data(1,206) <= 0.396
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 4805
+        if single_data(1,125) <= 0.118
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2403
+        if single_data(1,16) <= 0.604
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 601
+        if single_data(1,187) <= 0.808
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 151
+        if single_data(1,88) <= 0.635
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 19
+        if single_data(1,186) <= 0.184
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 38
+        if single_data(1,153) <= 0.81
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 76
+        if single_data(1,37) <= 0.216
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 77
+        if single_data(1,60) <= 0.086
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 39
+        if single_data(1,203) <= 0.373
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 78
+        if single_data(1,175) <= 0.38
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 156
+        if single_data(1,63) <= 0.175
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 157
+        if single_data(1,170) <= 0.833
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 314
+        if single_data(1,244) <= 0.722
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 315
+        if single_data(1,51) <= 0.865
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 79
+        if single_data(1,161) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 158
+        if single_data(1,154) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 317
+        if single_data(1,93) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 634
+        if single_data(1,98) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1268
+        if single_data(1,178) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2536
+        if single_data(1,145) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 5072
+        if single_data(1,133) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 10144
+        if single_data(1,15) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 20288
+        if single_data(1,256) <= 0.612
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 20289
+        if single_data(1,270) <= 0.999
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 10145
+        if single_data(1,228) <= 0.888
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 5073
+        if single_data(1,249) <= 0.722
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 10146
+        if single_data(1,193) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 20292
+        if single_data(1,147) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 10147
+        if single_data(1,110) <= 0.786
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2537
+        if single_data(1,129) <= 0.263
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 5075
+        if single_data(1,298) <= 0.273
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1269
+        if single_data(1,133) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 635
+        if single_data(1,47) <= 0.231
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 159
+        if single_data(1,175) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 318
+        if single_data(1,158) <= 0.071
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 637
+        if single_data(1,196) <= 0.063
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1275
+        if single_data(1,243) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 319
+        if single_data(1,221) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 638
+        if single_data(1,86) <= 0.231
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1276
+        if single_data(1,176) <= 0.882
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 5
+        if single_data(1,110) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 10
+        if single_data(1,73) <= 0.325
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 20
+        if single_data(1,90) <= 0.833
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 40
+        if single_data(1,125) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 80
+        if single_data(1,9) <= 0.318
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 160
+        if single_data(1,269) <= 0.522
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 321
+        if single_data(1,292) <= 0.83
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 161
+        if single_data(1,80) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 322
+        if single_data(1,104) <= 0.143
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 323
+        if single_data(1,83) <= 0.492
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 81
+        if single_data(1,178) <= 0.278
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 162
+        if single_data(1,67) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 163
+        if single_data(1,147) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 41
+        if single_data(1,218) <= 0.753
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 82
+        if single_data(1,59) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 164
+        if single_data(1,94) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 329
+        if single_data(1,253) <= 0.896
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 165
+        if single_data(1,88) <= 0.388
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 83
+        if single_data(1,106) <= 0.89
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 21
+        if single_data(1,57) <= 0.482
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 42
+        if single_data(1,106) <= 0.882
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 84
+        if single_data(1,87) <= 0.58
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 168
+        if single_data(1,109) <= 0.89
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 169
+        if single_data(1,136) <= 0.753
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 338
+        if single_data(1,106) <= 0.745
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 676
+        if single_data(1,281) <= 0.476
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1352
+        if single_data(1,55) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 339
+        if single_data(1,60) <= 0.784
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 85
+        if single_data(1,138) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 170
+        if single_data(1,201) <= 0.102
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 341
+        if single_data(1,21) <= 0.937
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 682
+        if single_data(1,221) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1364
+        if single_data(1,233) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2729
+        if single_data(1,4) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 5458
+        if single_data(1,35) <= 0.888
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 683
+        if single_data(1,98) <= 0.833
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 171
+        if single_data(1,55) <= 0.588
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 43
+        if single_data(1,8) <= 0.467
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 86
+        if single_data(1,160) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 172
+        if single_data(1,178) <= 0.929
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 344
+        if single_data(1,136) <= 0.263
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 688
+        if single_data(1,131) <= 0.475
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1376
+        if single_data(1,133) <= 0.055
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2752
+        if single_data(1,97) <= 0.42
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2753
+        if single_data(1,203) <= 0.865
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1377
+        if single_data(1,276) <= 0.832
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 689
+        if single_data(1,13) <= 0.841
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1378
+        if single_data(1,87) <= 0.206
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2756
+        if single_data(1,36) <= 0.412
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2757
+        if single_data(1,96) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 5515
+        if single_data(1,53) <= 0.969
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1379
+        if single_data(1,216) <= 0.357
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 173
+        if single_data(1,15) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 87
+        if single_data(1,239) <= 0.133
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 174
+        if single_data(1,87) <= 0.525
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 348
+        if single_data(1,109) <= 0.231
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 349
+        if single_data(1,32) <= 0.42
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 698
+        if single_data(1,58) <= 0.825
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 699
+        if single_data(1,18) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1398
+        if single_data(1,24) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 175
+        if single_data(1,170) <= 0.596
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 350
+        if single_data(1,89) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 701
+        if single_data(1,28) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1402
+        if single_data(1,87) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2804
+        if single_data(1,231) <= 0.167
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 2805
+        if single_data(1,14) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 5610
+        if single_data(1,117) <= 0.659
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 5611
+        if single_data(1,298) <= 0.988
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 11222
+        if single_data(1,262) <= 0.001
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 22445
+        if single_data(1,271) <= 0.978
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 351
+        if single_data(1,5) <= 0.604
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 702
+        if single_data(1,91) <= 0.643
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1404
+        if single_data(1,190) <= 0.096
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 703
+        if single_data(1,291) <= 0.067
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 11
+        if single_data(1,101) <= 0.706
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 22
+        if single_data(1,79) <= 0.549
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 44
+        if single_data(1,111) <= 0.833
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 88
+        if single_data(1,32) <= 0.341
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 176
+        if single_data(1,281) <= 0.927
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 177
+        if single_data(1,45) <= 0.81
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 89
+        if single_data(1,149) <= 0.857
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 45
+        if single_data(1,76) <= 0.659
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 90
+        if single_data(1,107) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 180
+        if single_data(1,281) <= 0.072
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 181
+        if single_data(1,35) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 91
+        if single_data(1,73) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 183
+        if single_data(1,196) <= 0.786
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 23
+        if single_data(1,106) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 46
+        if single_data(1,88) <= 0.373
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 93
+        if single_data(1,149) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 47
+        if single_data(1,99) <= 0.659
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 94
+        if single_data(1,73) <= 0.533
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 188
+        if single_data(1,300) <= 0.941
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 189
+        if single_data(1,76) <= 0.69
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 379
+        if single_data(1,139) <= 0.055
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 95
+        if single_data(1,156) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 190
+        if single_data(1,59) <= 0.627
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 381
+        if single_data(1,80) <= 0.445
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 191
+        if single_data(1,251) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 382
+        if single_data(1,2) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 764
+        if single_data(1,10) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1528
+        if single_data(1,291) <= 0.997
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3056
+        if single_data(1,235) <= 0.969
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6112
+        if single_data(1,138) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12224
+        if single_data(1,246) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 24448
+        if single_data(1,200) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 24449
+        if single_data(1,189) <= 0.184
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 765
+        if single_data(1,10) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 383
+        if single_data(1,22) <= 0.563
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3
+        if single_data(1,133) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6
+        if single_data(1,142) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12
+        if single_data(1,10) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 24
+        if single_data(1,109) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 48
+        if single_data(1,158) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 96
+        if single_data(1,76) <= 0.945
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 192
+        if single_data(1,120) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 384
+        if single_data(1,153) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 768
+        if single_data(1,126) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1536
+        if single_data(1,198) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3072
+        if single_data(1,105) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6144
+        if single_data(1,225) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12289
+        if single_data(1,95) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 24579
+        if single_data(1,281) <= 0.994
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6145
+        if single_data(1,98) <= 0.276
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1537
+        if single_data(1,281) <= 0.404
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 769
+        if single_data(1,117) <= 0.8
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1538
+        if single_data(1,94) <= 0.133
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3076
+        if single_data(1,166) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6152
+        if single_data(1,26) <= 0.133
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12305
+        if single_data(1,296) <= 0.097
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6153
+        if single_data(1,246) <= 0.206
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3077
+        if single_data(1,71) <= 0.055
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6154
+        if single_data(1,45) <= 0.833
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6155
+        if single_data(1,9) <= 0.055
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12310
+        if single_data(1,24) <= 0.094
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12311
+        if single_data(1,126) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 24622
+        if single_data(1,103) <= 0.492
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 24623
+        if single_data(1,183) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1539
+        if single_data(1,52) <= 0.588
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3078
+        if single_data(1,125) <= 0.167
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 385
+        if single_data(1,72) <= 0.263
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 770
+        if single_data(1,43) <= 0.159
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1541
+        if single_data(1,17) <= 0.945
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3082
+        if single_data(1,293) <= 0.023
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6165
+        if single_data(1,221) <= 0.094
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 771
+        if single_data(1,190) <= 0.859
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1542
+        if single_data(1,220) <= 0.722
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3084
+        if single_data(1,104) <= 0.133
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6168
+        if single_data(1,148) <= 0.714
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6169
+        if single_data(1,30) <= 0.937
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12338
+        if single_data(1,142) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 24676
+        if single_data(1,44) <= 0.016
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 24677
+        if single_data(1,170) <= 0.461
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3085
+        if single_data(1,94) <= 0.675
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6170
+        if single_data(1,247) <= 0.784
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1543
+        if single_data(1,171) <= 0.667
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3086
+        if single_data(1,133) <= 0.745
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 193
+        if single_data(1,201) <= 0.627
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 386
+        if single_data(1,203) <= 0.184
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 773
+        if single_data(1,233) <= 0.094
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 387
+        if single_data(1,61) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 97
+        if single_data(1,145) <= 0.549
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 194
+        if single_data(1,188) <= 0.573
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 388
+        if single_data(1,173) <= 0.635
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 777
+        if single_data(1,58) <= 0.216
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 389
+        if single_data(1,143) <= 0.047
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 778
+        if single_data(1,84) <= 0.643
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 195
+        if single_data(1,246) <= 0.825
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 390
+        if single_data(1,206) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 780
+        if single_data(1,129) <= 0.929
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1560
+        if single_data(1,39) <= 0.825
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3121
+        if single_data(1,43) <= 0.763
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 391
+        if single_data(1,235) <= 0.698
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 49
+        if single_data(1,77) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 98
+        if single_data(1,110) <= 0.58
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 196
+        if single_data(1,170) <= 0.922
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 392
+        if single_data(1,61) <= 0.063
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 197
+        if single_data(1,208) <= 0.784
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 394
+        if single_data(1,252) <= 0.825
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 788
+        if single_data(1,39) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1576
+        if single_data(1,168) <= 0.047
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3152
+        if single_data(1,77) <= 0.469
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3153
+        if single_data(1,183) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6307
+        if single_data(1,144) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12614
+        if single_data(1,230) <= 0.825
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 25228
+        if single_data(1,99) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 25229
+        if single_data(1,209) <= 0.62
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 789
+        if single_data(1,1) <= 0.133
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 395
+        if single_data(1,178) <= 0.175
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 99
+        if single_data(1,166) <= 0.792
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 198
+        if single_data(1,106) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 397
+        if single_data(1,119) <= 0.278
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 794
+        if single_data(1,151) <= 0.357
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 199
+        if single_data(1,59) <= 0.818
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 25
+        if single_data(1,183) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 50
+        if single_data(1,87) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 100
+        if single_data(1,47) <= 0.984
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 200
+        if single_data(1,99) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 400
+        if single_data(1,297) <= 0.998
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 800
+        if single_data(1,257) <= 0.993
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1600
+        if single_data(1,265) <= 0.007
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3201
+        if single_data(1,126) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6403
+        if single_data(1,273) <= 0.01
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 12806
+        if single_data(1,240) <= 0.302
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 13
+        if single_data(1,98) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 26
+        if single_data(1,151) <= 0.833
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 52
+        if single_data(1,91) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 104
+        if single_data(1,188) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 208
+        if single_data(1,21) <= 0.841
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 416
+        if single_data(1,246) <= 0.518
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 832
+        if single_data(1,11) <= 0.825
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1664
+        if single_data(1,79) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3328
+        if single_data(1,254) <= 0.81
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6656
+        if single_data(1,263) <= 0.018
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 13313
+        if single_data(1,275) <= 0.978
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6657
+        if single_data(1,178) <= 0.216
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3329
+        if single_data(1,180) <= 0.231
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6659
+        if single_data(1,220) <= 0.549
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 13318
+        if single_data(1,17) <= 0.133
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 833
+        if single_data(1,120) <= 0.882
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1666
+        if single_data(1,178) <= 0.278
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3333
+        if single_data(1,133) <= 0.675
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6666
+        if single_data(1,55) <= 0.078
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 13333
+        if single_data(1,32) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6667
+        if single_data(1,85) <= 0.102
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1667
+        if single_data(1,256) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 209
+        if single_data(1,127) <= 0.929
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 418
+        if single_data(1,138) <= 0.102
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 419
+        if single_data(1,158) <= 0.857
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 105
+        if single_data(1,230) <= 0.833
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 210
+        if single_data(1,285) <= 0.974
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 420
+        if single_data(1,72) <= 0.953
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 840
+        if single_data(1,50) <= 0.865
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1680
+        if single_data(1,127) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3360
+        if single_data(1,23) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 841
+        if single_data(1,107) <= 0.841
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 421
+        if single_data(1,229) <= 0.365
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 53
+        if single_data(1,21) <= 0.753
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 106
+        if single_data(1,54) <= 0.102
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 212
+        if single_data(1,156) <= 0.953
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 213
+        if single_data(1,64) <= 0.086
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 426
+        if single_data(1,15) <= 0.11
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 427
+        if single_data(1,9) <= 0.882
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 854
+        if single_data(1,205) <= 0.859
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1708
+        if single_data(1,5) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3416
+        if single_data(1,47) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 6832
+        if single_data(1,284) <= 0.99
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1709
+        if single_data(1,45) <= 0.302
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 107
+        if single_data(1,262) <= 0.286
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 27
+        if single_data(1,144) <= 0.753
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 54
+        if single_data(1,123) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 108
+        if single_data(1,177) <= 0.659
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 216
+        if single_data(1,46) <= 0.849
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 217
+        if single_data(1,130) <= 0.89
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 109
+        if single_data(1,117) <= 0.643
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 218
+        if single_data(1,275) <= 0.5
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 219
+        if single_data(1,3) <= 0.086
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 55
+        if single_data(1,10) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 110
+        if single_data(1,223) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 220
+        if single_data(1,161) <= 0.071
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 440
+        if single_data(1,184) <= 0.524
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 441
+        if single_data(1,63) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 883
+        if single_data(1,22) <= 0.016
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1767
+        if single_data(1,230) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3535
+        if single_data(1,19) <= 0.016
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7071
+        if single_data(1,17) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 221
+        if single_data(1,290) <= 0.623
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7
+        if single_data(1,142) <= 0.69
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 14
+        if single_data(1,110) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 28
+        if single_data(1,157) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 56
+        if single_data(1,107) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 112
+        if single_data(1,191) <= 0.859
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 224
+        if single_data(1,251) <= 0.508
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 448
+        if single_data(1,11) <= 0.231
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 896
+        if single_data(1,6) <= 0.094
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1793
+        if single_data(1,49) <= 0.818
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3586
+        if single_data(1,220) <= 0.055
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3587
+        if single_data(1,203) <= 0.192
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 897
+        if single_data(1,139) <= 0.659
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1794
+        if single_data(1,36) <= 0.149
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3588
+        if single_data(1,161) <= 0.761
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3589
+        if single_data(1,185) <= 0.349
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7178
+        if single_data(1,215) <= 0.373
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 14356
+        if single_data(1,1) <= 0.81
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 28713
+        if single_data(1,94) <= 0.396
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 14357
+        if single_data(1,99) <= 0.294
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7179
+        if single_data(1,113) <= 0.016
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1795
+        if single_data(1,158) <= 0.349
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3590
+        if single_data(1,142) <= 0.167
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7180
+        if single_data(1,39) <= 0.094
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7181
+        if single_data(1,3) <= 0.865
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3591
+        if single_data(1,41) <= 0.714
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 449
+        if single_data(1,87) <= 0.047
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 899
+        if single_data(1,128) <= 0.761
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1798
+        if single_data(1,140) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3596
+        if single_data(1,15) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7192
+        if single_data(1,94) <= 0.071
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 14384
+        if single_data(1,106) <= 0.443
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 28769
+        if single_data(1,39) <= 0.953
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 14385
+        if single_data(1,234) <= 0.984
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 28770
+        if single_data(1,37) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1799
+        if single_data(1,165) <= 0.635
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 225
+        if single_data(1,135) <= 0.875
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 450
+        if single_data(1,179) <= 0.896
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 113
+        if single_data(1,72) <= 0.841
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 226
+        if single_data(1,5) <= 0.825
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 452
+        if single_data(1,87) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 904
+        if single_data(1,8) <= 0.133
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1809
+        if single_data(1,167) <= 0.929
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3618
+        if single_data(1,205) <= 0.063
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 905
+        if single_data(1,141) <= 0.024
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 227
+        if single_data(1,136) <= 0.11
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 57
+        if single_data(1,209) <= 0.184
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 114
+        if single_data(1,177) <= 0.737
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 228
+        if single_data(1,274) <= 0.011
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 457
+        if single_data(1,77) <= 0.206
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 115
+        if single_data(1,155) <= 0.792
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 230
+        if single_data(1,162) <= 0.808
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 460
+        if single_data(1,176) <= 0.278
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 461
+        if single_data(1,40) <= 0.19
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 231
+        if single_data(1,252) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 462
+        if single_data(1,165) <= 0.937
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 463
+        if single_data(1,19) <= 0.882
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 926
+        if single_data(1,212) <= 0.125
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1852
+        if single_data(1,60) <= 0.325
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1853
+        if single_data(1,181) <= 0.969
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3706
+        if single_data(1,125) <= 0.961
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 927
+        if single_data(1,197) <= 0.422
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 29
+        if single_data(1,246) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 58
+        if single_data(1,122) <= 0.769
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 116
+        if single_data(1,124) <= 0.373
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 232
+        if single_data(1,221) <= 0.096
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 233
+        if single_data(1,141) <= 0.071
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 117
+        if single_data(1,29) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 234
+        if single_data(1,123) <= 0.667
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 469
+        if single_data(1,218) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 938
+        if single_data(1,71) <= 0.906
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1876
+        if single_data(1,291) <= 0.994
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3752
+        if single_data(1,119) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7505
+        if single_data(1,52) <= 0.031
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1877
+        if single_data(1,3) <= 0.349
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 939
+        if single_data(1,226) <= 0.771
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 15
+        if single_data(1,247) <= 0.929
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 30
+        if single_data(1,140) <= 0.294
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 60
+        if single_data(1,70) <= 0.167
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 120
+        if single_data(1,5) <= 0.278
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 121
+        if single_data(1,230) <= 0.149
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 242
+        if single_data(1,16) <= 0.667
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 243
+        if single_data(1,209) <= 0.945
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 486
+        if single_data(1,9) <= 0.039
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 973
+        if single_data(1,21) <= 0.922
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 61
+        if single_data(1,253) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 122
+        if single_data(1,86) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 244
+        if single_data(1,188) <= 0.898
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 488
+        if single_data(1,234) <= 0.008
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 976
+        if single_data(1,195) <= 0.627
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 977
+        if single_data(1,96) <= 0.929
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1954
+        if single_data(1,11) <= 0.882
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3908
+        if single_data(1,189) <= 0.992
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7816
+        if single_data(1,82) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 15632
+        if single_data(1,85) <= 0.914
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 31264
+        if single_data(1,244) <= 0.984
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 31265
+        if single_data(1,259) <= 0.715
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 15633
+        if single_data(1,141) <= 0.714
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 31267
+        if single_data(1,118) <= 0.976
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7817
+        if single_data(1,225) <= 0.198
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 3909
+        if single_data(1,92) <= 0.627
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 7818
+        if single_data(1,187) <= 0.722
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1955
+        if single_data(1,136) <= 0.851
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 489
+        if single_data(1,205) <= 0.816
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 978
+        if single_data(1,64) <= 0.118
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 245
+        if single_data(1,48) <= 0.675
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 490
+        if single_data(1,9) <= 0.118
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 981
+        if single_data(1,57) <= 0.078
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 1962
+        if single_data(1,99) <= 0.906
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 491
+        if single_data(1,147) <= 0.508
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 123
+        if single_data(1,183) <= 0.857
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 31
+        if single_data(1,230) <= 0.867
+            dec = 1;
+        else
+            dec = 0;
+        end
+    case 63
+        if single_data(1,132) <= 0.453
+            dec = 1;
+        else
+            dec = 0;
+        end
